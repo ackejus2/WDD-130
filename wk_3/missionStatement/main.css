@@ -1,0 +1,19 @@
+h1{
+    letter-spacing: normal;
+    line-height: 1.5;
+    text-transform: capitalize;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color:#006EB6;
+    letter-spacing: normal;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+p {
+    max-width: 70ch
+}
+footer {
+    size: 150px
+}
