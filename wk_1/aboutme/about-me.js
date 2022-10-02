@@ -11,7 +11,14 @@ para.textContent = `My final favorite foods: ${favoriteFoods}`;
 const weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const today = new Date();
 console.log(today);
+<<<<<<< HEAD
 const day = today.getDay;
 console.log(day);
 const todayElement = document.querySelector("#displayToday");
 todayElement.textContent = weekdays[day];
+=======
+const day = today.getDay();
+console.log(day);
+const todayElement = document.querySelector("#displayToday");
+todayElement.textContent = weekdays[day];
+>>>>>>> 0fc938081a60c7f5db58b12f94b80421be996609

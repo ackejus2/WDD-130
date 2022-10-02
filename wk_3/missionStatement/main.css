@@ -3,6 +3,9 @@ h1{
     line-height: 1.5;
     text-transform: capitalize;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    font-weight: 200;
 }
 h2 {
     text-align: center;
@@ -12,8 +15,13 @@ h2 {
     text-transform: capitalize;
 }
 p {
-    max-width: 70ch
+    max-width: 70ch;
+    text-align: left;
 }
-footer {
-    size: 150px
+photo {
+    size: 100px;
+}
+div {
+    padding-left: 500px;
+    padding-right: 500px;
 }
